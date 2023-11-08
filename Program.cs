@@ -80,10 +80,10 @@ namespace GenericcollectionOOP            //Wille Persson - .Net23 - Labb 8 OOP 
 
             if (employeestack.Contains(e3))//Checks if object 3 is still in the stack
             {
-                Console.WriteLine("employee 3 is in stack");
+                Console.WriteLine("Object 3 är i stacken");
             }
             else
-            Console.WriteLine("employee 3 is not in stack");
+                Console.WriteLine("Object 3 är inte i stacken");
 
             Console.WriteLine("-------------------------------");
             
